@@ -80,7 +80,7 @@ int main()
 			++i;
 		}
 	}
-	//******************* for para hacer pruebas
+	//******************* for para hacer pruebas-------------
 	for(int j=0; j<=2; ++j){// ESTE FOR ASIGNA LOS VALORES A LAS 7 PILAS DE CARTAS(el de abajo
 		for(int k=0; k<=19; ++k){
 			cout<<pila_mazo_palo[j][k]<<endl;
